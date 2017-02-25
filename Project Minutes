@@ -1,0 +1,31 @@
+Project Minutes
+2/25/17
+Members: Jared, Nick, Matt, Aaron
+Major Use Cases?
+  Customer Account
+    Login as customer
+    Add an item to cart
+    Remove item from cart
+    Change quantity of item when buying
+    Change quantity of item from cart
+    Check out
+    Browse Inventory
+  Admin Account
+    Login
+    Change quantity available of items
+    Add new items
+    Remove items
+    Update Items info
+Classes?
+  Business Logic
+    User
+    Customer
+    Administrator
+    ShoppingCart
+    Oders
+  Database
+    Item
+    Inventory
+    Category
+    InventoryList?
+    CategoryList?
